@@ -1,5 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/ZBjzzZRq)
-
 ## <img class="flag-img" width="20px" height="auto" src="https://flagicons.lipis.dev/flags/4x3/es.svg" alt="Flag of Spain"> PEC 1 
 
 Este es el repositorio de la PEC 1 de la asignatura Programación en JavaScript para Programadores. 
